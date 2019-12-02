@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import "./icon/flaticon.css"
+import './icon/flaticon.css';
 import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 import httpClient from './httpClient'
 
