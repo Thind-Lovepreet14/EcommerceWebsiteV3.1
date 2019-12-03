@@ -18,6 +18,13 @@
       "type": "image/png"
     }
   ],
+  "apple-touch-icon": [
+    {
+      "src": "/icons/favicon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
