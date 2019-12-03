@@ -1,4 +1,4 @@
-# E-Commerce Website | [Run4It](https://run4it.herokuapp.com/)
+# E-Commerce Website | [Run4It](https://run4it-pwa.herokuapp.com/)
 This project is an e-commerce website centered around athletic apparel. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database, that allows a user to filter by product type and price. The contact page has a form that dynamically adds the comment to the comment slider so users can see their comments. A secure admin page has been added that allows access to the products. React and MongoDB is linked together through Express.
 
 ## Getting Started
@@ -21,7 +21,10 @@ This project is an e-commerce website centered around athletic apparel. It conta
 Use `npm test` from the root directory.
 
 ## Audit
+### Pre-Audit
 ![](work/audit/pre_audit_11-25-19.png)
+### Post-Audit
+![](work/audit/post-audit_12-03-19.png)
 
 ## Author
 * [Lovepreet Thind](https://github.com/Thind-Lovepreet14)
