@@ -1,5 +1,5 @@
 # E-Commerce Website | [Run4It](https://run4it-pwa.herokuapp.com/)
-This project is an e-commerce website centered around athletic apparel. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database, that allows a user to filter by product type and price. The contact page has a form that dynamically adds the comment to the comment slider so users can see their comments. A secure admin page has been added that allows access to the products. React and MongoDB is linked together through Express.
+This project is an e-commerce website centered around athletic apparel. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database, that allows a user to filter by product type and price. The contact page has a form that dynamically adds the comment to the comment slider so users can see their comments. A secure admin page has been added that allows access to the products. React and MongoDB is linked together through Express. The website has been modified to become a progressive web app that can be now be downloaded onto mobile devices.
 
 ## Getting Started
 
@@ -11,6 +11,32 @@ This project is an e-commerce website centered around athletic apparel. It conta
 
 4. Use `npm start` to start the application from the root directory.
 
+## Getting Started (Mobile)
+1. Open the [link](https://run4it-pwa.herokuapp.com/) on your mobile device.
+
+2. On Safari, hit the download button on the bottom.
+
+3. Scroll to the right until you see `Add to Home Screen` and tap on it.
+
+4. Run4It should now be available on your phone.
+
+## Preview of Application
+
+### App Icon 
+![](work/IOS/app_icon.png)
+
+### App Home Screen
+![](work/IOS/home_screen.png)
+
+
+## Audit
+
+### Pre-Audit
+![](work/audit/pre_audit_11-25-19.png)
+
+### Post-Audit
+![](work/audit/post-audit_12-03-19.png)
+
 ### Built With
 
 * [React](https://reactjs.org/docs/getting-started.html) - JavaScript library for building user interfaces
@@ -20,11 +46,6 @@ This project is an e-commerce website centered around athletic apparel. It conta
 ## Running the Tests
 Use `npm test` from the root directory.
 
-## Audit
-### Pre-Audit
-![](work/audit/pre_audit_11-25-19.png)
-### Post-Audit
-![](work/audit/post-audit_12-03-19.png)
 
 ## Author
 * [Lovepreet Thind](https://github.com/Thind-Lovepreet14)
