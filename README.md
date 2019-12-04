@@ -23,11 +23,9 @@ This project is an e-commerce website centered around athletic apparel. It conta
 ## Preview of Application
 
 ### App Icon 
-![](work/IOS/app_icon.png)
 <img src="work/IOS/app_icon.png"  width="400"/>
 
 ### App Home Screen
-![](work/IOS/home_screen.png)
 <img src="work/IOS/home_screen.png"  width="400"/>
 
 ## Audit
