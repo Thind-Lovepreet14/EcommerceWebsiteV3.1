@@ -35,12 +35,6 @@ This project is an e-commerce website centered around athletic apparel. It conta
 | ![](work/audit/pre_audit_11-25-19.png)      | ![](work/audit/post-audit_12-03-19.png) | 
 
 
-### Pre-Audit
-![](work/audit/pre_audit_11-25-19.png)
-
-### Post-Audit
-![](work/audit/post-audit_12-03-19.png)
-
 ### Built With
 
 * [React](https://reactjs.org/docs/getting-started.html) - JavaScript library for building user interfaces
